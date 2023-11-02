@@ -1,3 +1,6 @@
+#Norris Knight
+# Turtle ploygon
+
 import turtle
 turtle.color("red")
 
